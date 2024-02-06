@@ -61,4 +61,4 @@ async def send_email(email: str):
     # Simulate email sending process
     # ... email sending logic ...
 
-    return {"message": "Email sent successfully", "email": email}
+    return {"message": "Email sent successfully", "email": email} 
